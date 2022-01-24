@@ -1,7 +1,8 @@
 # Social Network API
 
 ## Link to Walkthrough Video
-
+[Walkthrough Video](https://watch.screencastify.com/v/9dX1CtlhVphNnk82LWsx)
+* NOTE - The Video cut off before I could demonstrate the delete route for reactions, but feel free to test it out!
 
 ## Description
 This application uses node.js npm packages: Express.js to create the server the Mongoose ODM for MongoDB. It is a simple API that can perform CRUD routes for the models and controllers created.
